@@ -71,3 +71,4 @@ pipeline {
         }
     }
 }
+slack API: https://hooks.slack.com/services/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
