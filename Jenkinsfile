@@ -71,4 +71,4 @@ pipeline {
         }
     }
 }
-https://hooks.slack.com/services/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
+https://hooks.slack.com/services/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
